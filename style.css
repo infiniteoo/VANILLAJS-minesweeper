@@ -15,7 +15,11 @@ body {
     margin: 8px;
     display: block;
 }
+.checked {
+    background-color: red;
+}
 
 .bomb {
     background-color: orange;
 }
+
